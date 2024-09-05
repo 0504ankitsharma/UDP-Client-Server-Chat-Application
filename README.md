@@ -17,7 +17,11 @@ Here are some screenshots showcasing the chat application:
 - Chat Interface
 - Server View
 
-(Note: Add actual screenshots here)
+### Chat Interface
+![Chat Interface](demo.png)
+
+### Server View
+![Server View](demo1.png)
 
 ## Installation
 
