@@ -55,10 +55,6 @@ After running both the client and server, you can send messages via the client i
 
 Ensure that the `icon.png` file is in the same directory as the `client_ui` binary for the custom icon to appear.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
